@@ -16,7 +16,7 @@ println('hola')
 }
 ```
 
-> AVISO: Esto debe escribirse en un terminal.
+> **AVISO**: Esto debe escribirse en un terminal.
 >
 > lo dicho, asi es.
 > ```javascript
