@@ -11,10 +11,4 @@ Apuntes del modulo de Desarrollo Web en Entorno Servidor
 - [TEMA 8](./TEMA8/README.md)
 - [TEMA 9](./TEMA9/README.MD)
 
-## TEMA 1
-En este temas se veran **conceptos basicos**
-se veran los siguientes apartados
-
-## TEMA 2
-
-## TEMA 3
+**Apuntes realizado: Javier López Velasco**
