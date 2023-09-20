@@ -16,6 +16,13 @@ println('hola')
 }
 ```
 
+Lenguaje   |   Inventor    |   Año
+-----------|:-------------:|------:
+Javascript | James         | 1995
+Java       | James Gosling | 1995
+Python     | Fan de MonthyPython | 2006
+
+
 > **AVISO**: Esto debe escribirse en un terminal.
 >
 > lo dicho, asi es.
